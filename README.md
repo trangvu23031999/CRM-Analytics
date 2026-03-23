@@ -4,6 +4,13 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
+## Let's Connect
+* **LinkedIn:** [Trang Vu](linkedin.com/in/trangvu23)
+* **Portfolio:** [Github - Oilfield Services](https://github.com/trangvu23031999/Oil-Equipment-Performance-Analysis)
+
+---
+## Project Overview
+
 A full-stack SQL + Power BI analysis of a B2B SaaS CRM pipeline covering **3,000 leads** across 9 European markets, 8 sales reps, and 3 product lines. The project delivers actionable insights across pipeline health, funnel bottlenecks, rep performance, geo/industry segmentation, and forecast accuracy.
 
 > **Dataset:** Synthetic CRM snapshot · Jan–May 2024 · 9 countries · 14 industries
