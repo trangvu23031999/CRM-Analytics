@@ -1,8 +1,11 @@
 # 📊 CRM Sales Pipeline Analytics
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 A full-stack SQL + Power BI analysis of a B2B SaaS CRM pipeline covering **3,000 leads** across 9 European markets, 8 sales reps, and 3 product lines. The project delivers actionable insights across pipeline health, funnel bottlenecks, rep performance, geo/industry segmentation, and forecast accuracy.
 
-> **Tools:** PostgreSQL · Power BI · DAX  
 > **Dataset:** Synthetic CRM snapshot · Jan–May 2024 · 9 countries · 14 industries
 
 ---
@@ -35,6 +38,12 @@ crm-sales-pipeline-analytics/
 ---
 
 ## 📊 Dashboard Preview
+
+### Executive Summary
+* **Pipeline Bottleneck:** 71.4% of leads drop off between the Opportunity and Won stages, identifying the highest-leverage area for sales training.
+* **Stalled Revenue:** $377K in pipeline value is currently stalled at the "Proposal Sent" stage (averaging 78 days open).
+* **Forecasting Correction:** Sales reps consistently close deals ~131 days *earlier* than their forecasted close date. Applying a –131 day correction factor to open pipeline dates will drastically improve quarterly revenue forecasting.
+* **Market Efficiency:** The Enterprise segment (1001+ employees) and the Manufacturing industry yield the highest conversion rates (7.58% and 9.16%, respectively), signaling strong product-market fit in those niches.
 
 ### Page 1 — Pipeline Snapshot
 ![Pipeline Snapshot](dashboard/pipeline_snapshot.png)
